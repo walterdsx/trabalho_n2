@@ -1,2 +1,0 @@
-# trabalho_n2
-PLANO DE RECUPERAÇÃO DE DESASTRES (DRP)
